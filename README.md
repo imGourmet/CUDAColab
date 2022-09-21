@@ -13,7 +13,8 @@ Requirements:
  Steps:
   -Go to (https://colab.research.google.com)
   
-  -Start a new NoteBook and follow the steps described at CUDASetup.ipynb file on this repo.
+  -Start a new NoteBook and set the GPU with Runtime > Change Runtime > GPU Accelerator
+  then follow the steps described at CUDASetup.ipynb file on this repo.
   
   
  
